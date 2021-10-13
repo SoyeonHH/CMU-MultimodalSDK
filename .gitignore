@@ -6,3 +6,11 @@ __pycache__
 *.sw[px]
 *$py.class
 *.csd
+*.pkl
+examples/mmdatasdk_examples/basics/.ipynb_checkpoints/
+examples/mmdatasdk_examples/full_examples/.ipynb_checkpoints/
+examples/sdk_diagnostics/.ipynb_checkpoints/
+mmsdk/.ipynb_checkpoints/
+mmsdk/mmmodelsdk/fusion/dynamic_fusion_graph/.ipynb_checkpoints/
+proj-checkpoint.ipynb
+
