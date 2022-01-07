@@ -13,4 +13,4 @@ examples/sdk_diagnostics/.ipynb_checkpoints/
 mmsdk/.ipynb_checkpoints/
 mmsdk/mmmodelsdk/fusion/dynamic_fusion_graph/.ipynb_checkpoints/
 proj-checkpoint.ipynb
-
+*.zip
